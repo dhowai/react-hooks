@@ -43,4 +43,4 @@ const configureStore = () => {
   });
 };
 
-export default 
+export default configureStore;
